@@ -1,1 +1,1 @@
-Link: https://readme-typing-svg.demolab.com/demo/?font=Press+Start+2P&weight=700&size=40&color=5D6CF7&background=742DFF00&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=150&lines=Good+morning+or+afternoon!+;The+name+is+Johnny%2C+Tech+gremlin+at+your+service.
+Link: https://readme-typing-svg.demolab.com/demo/?font=Press+Start+2P&weight=700&size=40&color=5D6CF7&background=742DFF00&center=true&vCenter=true&multiline=true&width=1080&height=150&lines=Good+morning+or+afternoon!+;The+name+is+Johnny%2C+Tech+gremlin+at+your+service.
