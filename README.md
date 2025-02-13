@@ -35,6 +35,21 @@
 
 <body>
   <br><br><br>
-  <h1 align="left">            📓 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📓</h1>
+  <div>
+    <h1 align="left">            📓 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📓</h1>
+    <img src="https://github.com/Norumai01/Norumai01/blob/7bf5bdc830ed89ad6b960fec544fc1f22996d886/Assets/3703.gif" align="right">
+  </div> 
   
+  <div align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+  </div>
 </body>
