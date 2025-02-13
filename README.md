@@ -37,10 +37,10 @@
   <br><br><br>
   <div>
     <h1 align="left">            📓 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📓</h1>
-    <img src="https://github.com/Norumai01/Norumai01/blob/7bf5bdc830ed89ad6b960fec544fc1f22996d886/Assets/3703.gif" align="right">
+    <img src="https://github.com/Norumai01/Norumai01/blob/7bf5bdc830ed89ad6b960fec544fc1f22996d886/Assets/3703.gif" align="right" width="350">
   </div> 
   
-  <div align="center">
+  <div width="320" align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
