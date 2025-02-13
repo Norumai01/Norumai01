@@ -75,3 +75,15 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
   </div>
 </body>
+
+<body>
+  <br><br><br>
+  <h1 align="center">🔎 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 🔍</h1>
+  <br>
+  <div align="center">
+    <a href="mailto:johnnydinhnguyen2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/johnnynguyen2001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <br>
+    <a href="https://discordapp.com/users/norumai"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  </div>
+</body>
