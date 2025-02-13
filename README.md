@@ -79,8 +79,8 @@
 <body>
   <br><br><br>
   <h1 align="center">🔎 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 🔍</h1>
-  <br>
   <div align="center">
+    <p>Thanks for reading! ^ - ^ <br> Here are my contacts...</p>
     <a href="mailto:johnnydinhnguyen2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/johnnynguyen2001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <br>
