@@ -91,6 +91,6 @@
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true" align="left">    
         <img  alt="Norumai01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Norumai01?cardType=level-alternate&theme=tokyonight&preferLogin=true" />  
       </a>
-    <img src="https://discord.c99.nl/widget/theme-3/271839706109575168.png" align="right" valign="middle">
+    <img src="https://discord.c99.nl/widget/theme-3/271839706109575168.png" align="right">
   </div>
 </body>
