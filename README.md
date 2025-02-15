@@ -86,6 +86,11 @@
     <br>
     <a href="https://discordapp.com/users/norumai"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
     <br><br><br>
-    <img src="https://discord.c99.nl/widget/theme-3/271839706109575168.png">
+  </div>
+  <div>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true" align="left">    
+        <img  alt="Norumai01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Norumai01?cardType=level-alternate&theme=tokyonight&preferLogin=true" />  
+      </a>
+    <img src="https://discord.c99.nl/widget/theme-3/271839706109575168.png" align="right" valign="middle">
   </div>
 </body>
