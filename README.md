@@ -98,7 +98,8 @@
 <body>
   <br><br><br>
   <h1 align="center">🖊️ ~ 𝓒𝓻𝓮𝓭𝓲𝓽𝓼 ~ 🖊️</h1>
-  <li>
+  <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-627.gif" align="right">
+  <div align="center">
     <b>Profile Artist</b>: <a href="https://www.instagram.com/ioyotaku_art">Ioyosho</a>
-  </li>
+  </div>
 </body>
