@@ -90,7 +90,15 @@
     <img src="https://discord.c99.nl/widget/theme-3/271839706109575168.png">
     <br><br>
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true">    
-      <img  alt="Norumai01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Norumai01?cardType=level-alternate&theme=tokyonight&preferLogin=true" />  
+      <img alt="Norumai01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Norumai01?cardType=level-alternate&theme=tokyonight&preferLogin=true" />  
     </a>
   </div>
+</body>
+
+<body>
+  <br><br><br>
+  <h1 align="center">🖊️ ~ 𝓒𝓻𝓮𝓭𝓲𝓽𝓼 ~ 🖊️</h1>
+  <li>
+    <b>Profile Artist</b>: <a href="https://www.instagram.com/ioyotaku_art">Ioyosho</a>
+  </li>
 </body>
