@@ -96,7 +96,7 @@
 </body>
 
 <body>
-  <br><br><br>
+  <br>
   <h1 align="center">🖊️ ~ 𝓒𝓻𝓮𝓭𝓲𝓽𝓼 ~ 🖊️</h1>
   <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-627.gif" align="right">
   <div align="center">
