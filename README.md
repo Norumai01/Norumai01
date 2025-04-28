@@ -101,5 +101,7 @@
   <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-627.gif" align="right">
   <div align="center">
     <b>Profile Artist</b>: <a href="https://www.instagram.com/ioyotaku_art">Ioyosho</a>
+    <br><br>
+    <b>Background Music</b>: <a href="https://ko-fi.com/s/aeb5ff55ab">Light at the End of the Tunnel - <b>Jom Bee</b></a> 
   </div>
 </body>
