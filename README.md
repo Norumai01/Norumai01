@@ -29,7 +29,7 @@
     <b>Favorite Anime</b>: Violet EverGrande
   </li>
   <li>
-    <b>Favorite Music</b>: Multo - Cup of Joe (https://www.youtube.com/watch?v=Rht8rS4cR1s)
+    <b>Favorite Music</b>: Galileo Galilei - 青陽潮 (https://www.youtube.com/watch?v=0QYpZGFbz-Y)
   </li>
 </body>
 
@@ -98,8 +98,6 @@
   <h1 align="center">🖊️ ~ 𝓒𝓻𝓮𝓭𝓲𝓽𝓼 ~ 🖊️</h1>
   <div align="center">
     <b>Profile Artist</b>: <a href="https://www.instagram.com/ioyotaku_art">Ioyosho</a>
-    <br><br>
-    <b>Background Music</b>: <a href="https://ko-fi.com/s/aeb5ff55ab">Light at the End of the Tunnel - <b>Jom Bee</b></a> 
   </div>
   <br>
   <div align="center">
