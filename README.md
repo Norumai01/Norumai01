@@ -101,6 +101,6 @@
   </div>
   <br>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Norumai01/Norumai01/refs/heads/main/Assets/Norumai%20(no%20outline).gif" alt="Pop Profile" width="500" height="500">
+    <img src="https://raw.githubusercontent.com/Norumai01/Norumai01/refs/heads/main/Assets/Norumai%20(no%20outline).gif" alt="Pop Profile" width="250" height="250">
   </div>
 </body>
