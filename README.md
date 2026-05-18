@@ -97,7 +97,7 @@
   <br>
   <h1 align="center">🖊️ ~ 𝓒𝓻𝓮𝓭𝓲𝓽𝓼 ~ 🖊️</h1>
   <div align="center">
-    <b>Profile Artist</b>: <a href="https://www.instagram.com/ioyotaku_art">Ioyosho</a>
+    <b>Profile Artist</b>: <a href="https://www.instagram.com/ioyotaku_art">Ioyosho</a>, <a href="https://munchtea.carrd.co/">MunchTea</a>
   </div>
   <br>
   <div align="center">
