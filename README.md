@@ -29,7 +29,7 @@
     <b>Favorite Anime</b>: Violet EverGrande
   </li>
   <li>
-    <b>Favorite Music</b>: <a href="https://www.youtube.com/watch?v=lwyeuCgx8Uo">Alexandros - ENDROLL feat. SennaRin, Hiroyuki Sawano</a>
+    <b>Favorite Music</b>: <a href="https://www.youtube.com/watch?v=lwyeuCgx8Uo" target="_blank">Alexandros - ENDROLL feat. SennaRin, Hiroyuki Sawano</a>
   </li>
 </body>
 
