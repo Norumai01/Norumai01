@@ -29,7 +29,7 @@
     <b>Favorite Anime</b>: Violet EverGrande
   </li>
   <li>
-    <b>Favorite Music</b>: Galileo Galilei - 青陽潮 (https://www.youtube.com/watch?v=0QYpZGFbz-Y)
+    <b>Favorite Music</b>: <a href="https://www.youtube.com/watch?v=lwyeuCgx8Uo">Alexandros - ENDROLL feat. SennaRin, Hiroyuki Sawano</a>
   </li>
 </body>
 
