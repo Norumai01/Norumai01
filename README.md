@@ -24,7 +24,7 @@
     <b>Hobbies</b>: Programming, Reading Manga, Guitar, Rhythm Games 
   </li>
   <li>
-    <b>Favorite Anime</b>: Violet EverGrande
+    <b>Favorite Anime</b>: Violet Evergarden
   </li>
   <li>
     <b>Favorite Music</b>: <a href="https://www.youtube.com/watch?v=lwyeuCgx8Uo" target="_blank">Alexandros - ENDROLL feat. SennaRin, Hiroyuki Sawano</a>
