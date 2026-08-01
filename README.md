@@ -1,8 +1,6 @@
 <body>
   <h1 align="center">🐨 ~ 𝓝𝓸𝓻𝓾𝓶𝓪𝓲 ~ 🐨</h1>
   <img src="https://github.com/Norumai01/Norumai01/blob/45cbe864c0b2ae3593dc4afaeb06ab9038890ea0/Assets/4f3b30e2e72655a8eb948bd9d3ba66a30681a6b9.gif" align="center"> 
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=45&pause=1000&color=5D6CF7&background=742DFF00&center=true&vCenter=true&multiline=true&width=1080&height=150&lines=Good+morning+or+afternoon!+;The+name+is+Johnny%2C+Tech+gremlin+at+your+service." alt="Typing SVG" /></a>
   <br><br>
 </body>
 
@@ -97,10 +95,11 @@
   <br>
   <h1 align="center">🖊️ ~ 𝓒𝓻𝓮𝓭𝓲𝓽𝓼 ~ 🖊️</h1>
   <div align="center">
-    <b>Profile Artist</b>: <a href="https://www.instagram.com/ioyotaku_art">Ioyosho</a>, <a href="https://munchtea.carrd.co/">MunchTea</a>
+    <b>Profile Artist</b>: <a href="https://www.instagram.com/ioyotaku_art">Ioyosho</a>, <a href="https://munchtea.carrd.co/">MunchTea</a>, <a href="https://www.instagram.com/aquatique_gem/">Aquatique_Gem</a>
   </div>
   <br>
   <div align="center">
+    <img src="https://raw.githubusercontent.com/Norumai01/Norumai01/refs/heads/main/Assets/aqua.png" alt="Aqua Artwork" width="250" height="300">
     <img src="https://raw.githubusercontent.com/Norumai01/Norumai01/refs/heads/main/Assets/Norumai%20(no%20outline).gif" alt="Pop Profile" width="250" height="250">
   </div>
 </body>
